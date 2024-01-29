@@ -8,7 +8,7 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 
-	"github.com/ninjasphere/go-zigbee/nwkmgr"
+	"github.com/nps5696/go-zigbee/nwkmgr"
 )
 
 func main() {

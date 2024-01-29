@@ -9,11 +9,11 @@ import (
 	"os"
 	"os/signal"
 
-	zigbee "github.com/ninjasphere/go-zigbee"
+	zigbee "github.com/nps5696/go-zigbee"
 
-	"github.com/ninjasphere/go-zigbee/nwkmgr"
+	"github.com/nps5696/go-zigbee/nwkmgr"
 
-	"github.com/ninjasphere/go-zigbee/gateway"
+	"github.com/nps5696/go-zigbee/gateway"
 )
 
 const (
