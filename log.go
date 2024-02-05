@@ -1,7 +1,7 @@
 package zigbee
 
 import (
-	"github.com/nps5696/go-ninja/logger"
+	"github.com/ninjasphere/go-ninja/logger"
 )
 
 var (
